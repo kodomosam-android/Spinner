@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="cidades">
+        <item>São Paulo</item>
+        <item>Santos</item>
+        <item>Amapa</item>
+        <item>Florianopolis</item>
+        <item>Ceara</item>
+        <item>Piaui</item>
+        <item>Amazonas</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio grande do sul</item>
+    </string-array>
+
+</resources>
